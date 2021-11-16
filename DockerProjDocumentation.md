@@ -81,3 +81,5 @@ Using the web browser enter <br>
 The WordPress installation site will pop up and guide you throught the rest of the setup by asking for a language selection and login credentials.
 
 WordPress should finally be up and running.
+
+Resource: https://linuxiac.com/wordpress-with-docker/
