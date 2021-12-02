@@ -26,7 +26,7 @@ Under the ***/srv***, place a new file named ***wordpress***
 
 >` sudo mkdir -p /srv/wordpress`
 
-### <u> Create the **docker-compose/yaml** file in the New Directory </u>
+### <u> Create the **docker-compose.yaml** file in the New Directory </u>
 
 Enter the newly created file
 
